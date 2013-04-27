@@ -1,0 +1,1621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:kuler="http://kuler.adobe.com/kuler/API/rss/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:rss="http://blogs.law.harvard.edu/tech/rss" version="2.0">
+  <channel>
+    <title>kuler recent themes</title>
+    <link>http://kuler.adobe.com/</link>
+    <description>most recent themes published on kuler (1 to 20 of 17913)</description>
+    <language>en-us</language>
+    <pubDate>Mon, 22 Apr 2013 21:15:00 PST</pubDate>
+    <lastBuildDate>Mon, 22 Apr 2013 21:15:00 PST</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>Kuler Services</generator>
+    <managingEditor>kulerfeedback@adobe.com</managingEditor>
+    <webMaster>kulerfeedback@adobe.com</webMaster>
+    <recordCount>17913</recordCount>
+    <startIndex>0</startIndex>
+    <itemsPerPage>20</itemsPerPage>
+    <item>
+      <title>Theme Title: lottery</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405925</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405925</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>lottery</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405925.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405925.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: guille1.91&lt;br /&gt;
+				 ThemeID: 2405925&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					2456AA, AEDFF2, F2CB05, F2B705, DC5101</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405925</kuler:themeID>
+        <kuler:themeTitle>lottery</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405925.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>927495</kuler:authorID>
+          <kuler:authorLabel>guille1.91</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>2456AA</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.141176</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.337255</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.666667</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>AEDFF2</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.682353</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.87451</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.94902</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2CB05</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.796078</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.019608</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2B705</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.717647</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.019608</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>DC5101</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.862745</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.317647</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.003922</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 21:01:28 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: lkj</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405921</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405921</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>lkj</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405921.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405921.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: jake_boeve&lt;br /&gt;
+				 ThemeID: 2405921&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					95A692, D9D2AD, 736C56, 0D0800, 262015</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405921</kuler:themeID>
+        <kuler:themeTitle>lkj</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405921.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>813273</kuler:authorID>
+          <kuler:authorLabel>jake_boeve</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>2</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>95A692</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.584314</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.65098</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.572549</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>D9D2AD</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.85098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.823529</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.678431</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>736C56</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.45098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.423529</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.337255</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>0D0800</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.05098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.031373</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.0</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>262015</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.14902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.12549</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.082353</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:51:34 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Stripes</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405918</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405918</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Stripes</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405918.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405918.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: mcfadde2&lt;br /&gt;
+				 ThemeID: 2405918&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					66AAC8, E0E059, 66AAC8, E0E059, 66AAC8</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405918</kuler:themeID>
+        <kuler:themeTitle>Stripes</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405918.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>855523</kuler:authorID>
+          <kuler:authorLabel>mcfadde2</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>66AAC8</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.4</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.666667</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.784314</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>E0E059</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.878431</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.878431</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.34902</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>66AAC8</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.4</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.666667</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.784314</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>E0E059</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.878431</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.878431</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.34902</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>66AAC8</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.4</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.666667</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.784314</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:46:55 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Avatar night scene</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405916</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405916</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Avatar night scene</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405916.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405916.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: ally.cockrell&lt;br /&gt;
+				 ThemeID: 2405916&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					52DACD, 113B5C, 0A245C, 9367D9, 1A6F7F</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405916</kuler:themeID>
+        <kuler:themeTitle>Avatar night scene</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405916.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>915103</kuler:authorID>
+          <kuler:authorLabel>ally.cockrell</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>52DACD</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.321569</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.854902</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.803922</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>113B5C</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.066667</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.231373</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.360784</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>0A245C</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.039216</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.141176</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.360784</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>9367D9</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.576471</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.403922</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.85098</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>1A6F7F</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.101961</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.435294</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.498039</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:46:16 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Rodin 2</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405912</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405912</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Rodin 2</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405912.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405912.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: joshhardcastle&lt;br /&gt;
+				 ThemeID: 2405912&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					515086, 3B37BA, 23206E, 716FBA, 13113B</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405912</kuler:themeID>
+        <kuler:themeTitle>Rodin 2</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405912.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>873880</kuler:authorID>
+          <kuler:authorLabel>joshhardcastle</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>1</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>515086</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.318918</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.312857</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.525</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>3B37BA</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.230706</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.21602</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.73</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>23206E</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.135895</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.127245</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.43</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>716FBA</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.443518</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.43515</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.728039</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>13113B</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.072688</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.068061</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.23</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:40:51 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: cool colors</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405909</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405909</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>cool colors</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405909.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405909.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: deepika.sana&lt;br /&gt;
+				 ThemeID: 2405909&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					F2808A, B085DA, 444A5B, 3FBF90, FEFEFE</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405909</kuler:themeID>
+        <kuler:themeTitle>cool colors</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405909.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>926852</kuler:authorID>
+          <kuler:authorLabel>deepika.sana</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>1</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2808A</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.501961</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.541176</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>B085DA</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.690196</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.521569</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.854902</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>444A5B</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.266667</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.290196</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.356863</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>3FBF90</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.247059</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.74902</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.564706</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>FEFEFE</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.996078</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.996078</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.996078</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:38:38 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: kopen</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405908</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405908</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>kopen</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405908.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405908.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: lucas.andrioli&lt;br /&gt;
+				 ThemeID: 2405908&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					F2EBD2, 847E6D, F2EBD2, D8B753, FFFCFB</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405908</kuler:themeID>
+        <kuler:themeTitle>kopen</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405908.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>211916</kuler:authorID>
+          <kuler:authorLabel>lucas.andrioli</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2EBD2</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.921569</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.823529</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>847E6D</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.517647</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.494118</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.427451</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2EBD2</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.921569</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.823529</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>D8B753</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.847059</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.717647</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.32549</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>FFFCFB</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>1.0</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.988235</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.984314</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:37:39 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Rodin 1</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405903</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405903</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Rodin 1</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405903.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405903.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: joshhardcastle&lt;br /&gt;
+				 ThemeID: 2405903&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					7C43E1, 361D61, AB8AE6, 493A61, 6034AE</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405903</kuler:themeID>
+        <kuler:themeTitle>Rodin 1</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405903.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>873880</kuler:authorID>
+          <kuler:authorLabel>joshhardcastle</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>7C43E1</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.48751</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.264706</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.882353</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>361D61</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.211254</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.114706</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.382353</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>AB8AE6</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.671322</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.541176</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.901961</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>493A61</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.284582</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.229412</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.382353</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>6034AE</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.377008</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.204706</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.682353</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:32:54 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: ibm</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405902</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405902</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>ibm</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405902.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405902.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: tanami&lt;br /&gt;
+				 ThemeID: 2405902&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					F2A25C, 732210, A61F12, 400E0E, 260B0B</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405902</kuler:themeID>
+        <kuler:themeTitle>ibm</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405902.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>236599</kuler:authorID>
+          <kuler:authorLabel>tanami</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2A25C</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.635294</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.360784</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>732210</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.45098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.133333</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.062745</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>A61F12</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.65098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.121569</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.070588</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>400E0E</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.25098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.054902</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.054902</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>260B0B</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.14902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.043137</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.043137</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:32:36 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Inspira</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405899</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405899</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Inspira</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405899.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405899.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: quetzal-x&lt;br /&gt;
+				 ThemeID: 2405899&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					135382, 6D9DBE, BEDAFD, FFFFFF, F2723A</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405899</kuler:themeID>
+        <kuler:themeTitle>Inspira</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405899.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>927482</kuler:authorID>
+          <kuler:authorLabel>quetzal-x</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>2</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>135382</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.07451</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.32549</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.509804</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>6D9DBE</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.427451</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.615686</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.745098</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>BEDAFD</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.745098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.854902</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.992157</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>FFFFFF</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>1.0</kuler:swatchChannel1>
+            <kuler:swatchChannel2>1.0</kuler:swatchChannel2>
+            <kuler:swatchChannel3>1.0</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2723A</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.447059</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.227451</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:31:52 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: rojo lipsitck</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405898</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405898</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>rojo lipsitck</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405898.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405898.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: peraltamluz&lt;br /&gt;
+				 ThemeID: 2405898&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					A60321, 1C1E23, 0B0B0D, 363940, BFB299</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405898</kuler:themeID>
+        <kuler:themeTitle>rojo lipsitck</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405898.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>769724</kuler:authorID>
+          <kuler:authorLabel>peraltamluz</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>A60321</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.65098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.011765</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.129412</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>1C1E23</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.109804</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.117647</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.137255</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>0B0B0D</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.043137</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.043137</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.05098</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>363940</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.211765</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.223529</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.25098</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>BFB299</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.74902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.698039</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.6</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:31:14 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: L&amp;D Magazine Spread</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405892</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405892</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>L&amp;D Magazine Spread</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405892.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405892.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: jonoesh&lt;br /&gt;
+				 ThemeID: 2405892&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					753507, EB6100, 00919E, 00D8EB</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405892</kuler:themeID>
+        <kuler:themeTitle>L&amp;D Magazine Spread</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405892.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>927477</kuler:authorID>
+          <kuler:authorLabel>jonoesh</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>753507</kuler:swatchHexColor>
+            <kuler:swatchColorMode>cmyk</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.0</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.551049</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.94</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.54</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>EB6100</kuler:swatchHexColor>
+            <kuler:swatchColorMode>cmyk</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.0</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.586222</kuler:swatchChannel2>
+            <kuler:swatchChannel3>1.0</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.08</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>00919E</kuler:swatchHexColor>
+            <kuler:swatchColorMode>cmyk</kuler:swatchColorMode>
+            <kuler:swatchChannel1>1.0</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.08</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.0</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.38</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>00D8EB</kuler:swatchHexColor>
+            <kuler:swatchColorMode>cmyk</kuler:swatchColorMode>
+            <kuler:swatchChannel1>1.0</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.08</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.0</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.08</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:16:56 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Flat Studio initial</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405890</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405890</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Flat Studio initial</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405890.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405890.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: gurulyons&lt;br /&gt;
+				 ThemeID: 2405890&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					FF5A2E, FECED6, BBDD8A, 3BCCFC, FFD75E</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405890</kuler:themeID>
+        <kuler:themeTitle>Flat Studio initial</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405890.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>927478</kuler:authorID>
+          <kuler:authorLabel>gurulyons</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>FF5A2E</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>1.0</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.352941</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.180392</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>FECED6</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.996078</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.807843</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.839216</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>BBDD8A</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.733333</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.866667</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.541176</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>3BCCFC</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.231373</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.8</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.988235</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>FFD75E</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>1.0</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.843137</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.368627</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:14:14 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Julie Kays Journey</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405889</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405889</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Julie Kays Journey</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405889.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405889.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: adpennell&lt;br /&gt;
+				 ThemeID: 2405889&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					FAC3C0, E7628D, EC8B9E</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405889</kuler:themeID>
+        <kuler:themeTitle>Julie Kays Journey</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405889.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>911992</kuler:authorID>
+          <kuler:authorLabel>adpennell</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>FAC3C0</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.980392</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.764706</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.752941</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>E7628D</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.905882</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.384314</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.552941</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>EC8B9E</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.92549</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.545098</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.619608</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:12:41 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Livro de Visita</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405887</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405887</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Livro de Visita</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405887.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405887.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: macielportugal&lt;br /&gt;
+				 ThemeID: 2405887&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					9CC500, 060606, 444444, 52595B, 000000</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405887</kuler:themeID>
+        <kuler:themeTitle>Livro de Visita</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405887.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>902966</kuler:authorID>
+          <kuler:authorLabel>macielportugal</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>9CC500</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.611765</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.772549</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.0</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>060606</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.023468</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.023468</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.023468</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>444444</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.266667</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.266667</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.266667</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>52595B</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.321569</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.35002</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.356863</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>000000</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.0010</kuler:swatchChannel1>
+            <kuler:swatchChannel2>8.39E-4</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.0</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:11:43 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: afiche andres 2</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405885</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405885</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>afiche andres 2</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405885.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405885.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: tatianaherediapieschacon&lt;br /&gt;
+				 ThemeID: 2405885&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					4B89BF, 97BF3F, 85A63F, 403013, F2F2F2</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405885</kuler:themeID>
+        <kuler:themeTitle>afiche andres 2</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405885.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>918461</kuler:authorID>
+          <kuler:authorLabel>tatianaherediapieschacon</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>0</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>4B89BF</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.294118</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.537255</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.74902</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>97BF3F</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.592157</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.74902</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.247059</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>85A63F</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.521569</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.65098</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.247059</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>403013</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.25098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.188235</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.07451</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2F2F2</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.94902</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.94902</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:08:53 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Tpazdames</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405882</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405882</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Tpazdames</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405882.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405882.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: gonzalez.info&lt;br /&gt;
+				 ThemeID: 2405882&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					 Tags: 
+					 fonoaudiologia, presentacion, t
+				 &lt;br /&gt;	
+				 
+					Hex:
+					76FF49, 32FFF6, 4698E8</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405882</kuler:themeID>
+        <kuler:themeTitle>Tpazdames</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405882.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>725430</kuler:authorID>
+          <kuler:authorLabel>gonzalez.info</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags>fonoaudiologia, presentacion, t</kuler:themeTags>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>1</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>76FF49</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.464552</kuler:swatchChannel1>
+            <kuler:swatchChannel2>1.0</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.287685</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>32FFF6</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.194876</kuler:swatchChannel1>
+            <kuler:swatchChannel2>1.0</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.964146</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>4698E8</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.27495</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.594724</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.91</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:04:15 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Fall Trip Colorful</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405879</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405879</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Fall Trip Colorful</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405879.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405879.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: lvarahabhatla&lt;br /&gt;
+				 ThemeID: 2405879&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					 Tags: 
+					 colorful, mood:
+				 &lt;br /&gt;	
+				 
+					Hex:
+					F78B71, F2D06B, 7B9062, D99C79, 75483C</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405879</kuler:themeID>
+        <kuler:themeTitle>Fall Trip Colorful</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405879.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>927472</kuler:authorID>
+          <kuler:authorLabel>lvarahabhatla</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags>colorful, mood:</kuler:themeTags>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>1</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F78B71</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.968627</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.545098</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.443137</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2D06B</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.815686</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.419608</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>7B9062</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.482353</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.564706</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.384314</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>D99C79</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.85098</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.611765</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.47451</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>75483C</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.458824</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.282353</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.235294</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:01:49 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: orange</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405878</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405878</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>orange</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405878.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405878.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: jeremy.shepherd&lt;br /&gt;
+				 ThemeID: 2405878&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					F26A4B, F2A999, EE684C, E25C40, C74125</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405878</kuler:themeID>
+        <kuler:themeTitle>orange</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405878.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>927467</kuler:authorID>
+          <kuler:authorLabel>jeremy.shepherd</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>1</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F26A4B</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.415686</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.294118</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>F2A999</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.94902</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.662745</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.6</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>EE684C</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.933333</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.407843</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.298039</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>E25C40</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.886275</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.360784</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.25098</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>C74125</kuler:swatchHexColor>
+            <kuler:swatchColorMode>rgb</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.780392</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.254902</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.145098</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:01:39 PST</pubDate>
+    </item>
+    <item>
+      <title>Theme Title: Copy of One</title>
+      <link>http://kuler.adobe.com/index.cfm#themeID/2405877</link>
+      <guid>http://kuler.adobe.com/index.cfm#themeID/2405877</guid>
+      <enclosure xmlns="http://www.solitude.dk/syndication/enclosures/">
+        <title>Copy of One</title>
+        <link type="image/png" length="1">
+          <url>http://kuler-api.adobe.com/kuler/themeImages/theme_2405877.png</url>
+        </link>
+      </enclosure>
+      <description>
+				 &lt;img src="http://kuler-api.adobe.com/kuler/themeImages/theme_2405877.png" /&gt;&lt;br /&gt;
+				 
+				 Artist: wsonic71&lt;br /&gt;
+				 ThemeID: 2405877&lt;br /&gt;
+				 Posted: 04/22/2013&lt;br /&gt;
+				 
+					Hex:
+					10157F, 7CBF71, FF0A6B, 765F85, E59468</description>
+      <kuler:themeItem>
+        <kuler:themeID>2405877</kuler:themeID>
+        <kuler:themeTitle>Copy of One</kuler:themeTitle>
+        <kuler:themeImage>http://kuler-api.adobe.com/kuler/themeImages/theme_2405877.png</kuler:themeImage>
+        <kuler:themeAuthor>
+          <kuler:authorID>191299</kuler:authorID>
+          <kuler:authorLabel>wsonic71</kuler:authorLabel>
+        </kuler:themeAuthor>
+        <kuler:themeTags/>
+        <kuler:themeRating>0</kuler:themeRating>
+        <kuler:themeDownloadCount>2</kuler:themeDownloadCount>
+        <kuler:themeCreatedAt>20130422</kuler:themeCreatedAt>
+        <kuler:themeEditedAt>20130422</kuler:themeEditedAt>
+        <kuler:themeSwatches>
+          <kuler:swatch>
+            <kuler:swatchHexColor>10157F</kuler:swatchHexColor>
+            <kuler:swatchColorMode>hsv</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.659121</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.877326</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.5</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>0</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>7CBF71</kuler:swatchHexColor>
+            <kuler:swatchColorMode>hsv</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.309452</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.410389</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.75</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>1</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>FF0A6B</kuler:swatchHexColor>
+            <kuler:swatchColorMode>hsv</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.933952</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.958839</kuler:swatchChannel2>
+            <kuler:swatchChannel3>1.0</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>2</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>765F85</kuler:swatchHexColor>
+            <kuler:swatchColorMode>hsv</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.766288</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.281525</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.52</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>3</kuler:swatchIndex>
+          </kuler:swatch>
+          <kuler:swatch>
+            <kuler:swatchHexColor>E59468</kuler:swatchHexColor>
+            <kuler:swatchColorMode>hsv</kuler:swatchColorMode>
+            <kuler:swatchChannel1>0.05807</kuler:swatchChannel1>
+            <kuler:swatchChannel2>0.548237</kuler:swatchChannel2>
+            <kuler:swatchChannel3>0.9</kuler:swatchChannel3>
+            <kuler:swatchChannel4>0.0</kuler:swatchChannel4>
+            <kuler:swatchIndex>4</kuler:swatchIndex>
+          </kuler:swatch>
+        </kuler:themeSwatches>
+      </kuler:themeItem>
+      <pubDate>Mon, 22 Apr 2013 20:01:12 PST</pubDate>
+    </item>
+  </channel>
+</rss>
