@@ -12,9 +12,12 @@ class Kuler
   end
 
   def get_theme
-    # response = @http_client.get '/feeds/rss/get.cfm?timeSpan=30&listType=newest'
-    # rss = Nokogiri::XML.parse response.body
-    rss = Nokogiri::XML.parse File.open('rss.cache')
+    response = @http_client.get '/feeds/rss/get.cfm?timeSpan=30&listType=newest'
+    rss = Nokogiri::XML.parse response.body
+
+    # cheap fake VCR test mode
+    # rss = Nokogiri::XML.parse File.open('spec/rss.cache')
+
     theme = random_theme(rss)
     colors = parse_swatches(theme)
     {name: title(theme), colors: colors}

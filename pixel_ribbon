@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require './lib/kuler'
+require './lib/pixel_ribbon'
+
+require 'pry'
+
+theme = Kuler.new.get_theme
+ribbon = PixelRibbon.new.pixel_ribbon theme

@@ -1,10 +1,9 @@
 require 'chunky_png'
 require 'oily_png'
 
-require 'pry'
-
-class PixelBanner
+class PixelRibbon
   attr_accessor :num_tiles
+  attr_reader :canvas
 
   def initialize
     @num_tiles = 24
@@ -12,17 +11,18 @@ class PixelBanner
     @height = 24
   end
 
-  def pixel_banner swatch
-    canvas = ChunkyPNG::Canvas.new @width, @height, ChunkyPNG::Color.from_hex('#ffffff')
+  def pixel_ribbon theme
+    @canvas = ChunkyPNG::Canvas.new @width, @height, ChunkyPNG::Color.from_hex('#ffffff')
 
     @num_tiles.times do |offset|
-      color = random_color(swatch)
+      colors = theme[:colors]
+      color = random_color(colors)
       x1 = offset * 24
       x2 = (offset + 1) * 24 - 1
-      canvas.rect(x1, -1, x2, @height, ChunkyPNG::Color::TRANSPARENT, color)
+      @canvas.rect(x1, -1, x2, @height, ChunkyPNG::Color::TRANSPARENT, color)
     end
 
-    canvas
+    save @canvas, theme[:name]
   end
 
   # select a non repeating random color, no colors next to each other
@@ -34,12 +34,12 @@ class PixelBanner
     @random_color
   end
 
-  def save banner, swatch_name
+  def save ribbon, swatch_name
     pwd = File.dirname(__FILE__)
     swatch_name.downcase!
     swatch_name.gsub!(/\s+/, '_')
-    filename = "#{pwd}/../img/pixel-banner_#{swatch_name}.png"
-    banner.save(filename, :interlace => true)
+    filename = "#{pwd}/../img/pixel-ribbon_#{swatch_name}.png"
+    ribbon.save(filename, :interlace => true)
   end
 
 end
