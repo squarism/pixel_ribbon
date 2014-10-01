@@ -4,14 +4,12 @@ gem "chunky_png", "~> 1.2.8"
 gem "oily_png", "~> 1.1.0"
 gem "faraday", "~> 0.8.7"
 gem 'nokogiri', "~> 1.5.9"
+gem "slop"
 
 # Dev tools
 group :development do
   gem "rspec"
 
-  gem "pry"
-  gem "pry-nav"
-  gem "pry-doc"
   gem "guard"
   gem "guard-rspec"
 

@@ -3,7 +3,26 @@
 require './lib/kuler'
 require './lib/pixel_ribbon'
 
-require 'pry'
+require 'slop'
 
-theme = Kuler.new.get_theme
-ribbon = PixelRibbon.new.pixel_ribbon theme
+opts = Slop.new(strict: true, help: true) do
+  banner 'Usage: slop_test.rb [options]'
+  on 'n', 'number', 'Number of ribbons to generate'
+end
+
+begin
+  opts.parse
+  pictures_to_get = opts.to_hash[:number].to_i # validation passed
+rescue Slop::Error => e
+  puts e.message
+  puts opts
+end
+
+pictures_to_get = 1 if pictures_to_get == 0   # user probably passed in non-number
+pictures_to_get = 10 if pictures_to_get > 10  # let's not get crazy
+
+pictures_to_get.times do
+  theme = Kuler.new.get_theme
+  PixelRibbon.new.pixel_ribbon theme
+end
+

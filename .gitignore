@@ -17,4 +17,4 @@ tmp
 .yardoc
 _yardoc
 doc/
-img/
+img/*.png

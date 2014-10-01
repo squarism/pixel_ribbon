@@ -16,7 +16,6 @@
 # the png should not have sequential repeating colors, otherwise it will not look like 24 squares.
 
 
-# Once you are sick of debugging and testing in pry, move to small tests here
 require 'kuler'
 
 describe Kuler do
